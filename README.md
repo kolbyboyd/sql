@@ -1,2 +1,2 @@
-# sql
-sql portfolio
+# Kolby Boyd's SQL Portfolio
+## Welcome to my SQL portfolio! This code repository contains examples of SQL I've written. Feel free to take a look and reach out if you have any questions: kolbyboyd970@gmail.com
